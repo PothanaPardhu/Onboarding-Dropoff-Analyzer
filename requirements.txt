@@ -4,3 +4,4 @@ matplotlib
 wordcloud
 scikit-learn
 streamlit-lottie
+plotly
