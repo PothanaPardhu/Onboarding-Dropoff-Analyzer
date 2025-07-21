@@ -5,3 +5,4 @@ wordcloud
 scikit-learn
 streamlit-lottie
 plotly
+textblob
