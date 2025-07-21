@@ -41,9 +41,12 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run Home.py
+
 🧪 Sample Data
 We’ve included a sample file:
 📄 onboarding_80_users.csv
+
+
 It contains user_id, step, completion status, time spent, and feedback — ideal for demo and testing.
 
 🔗 Live App: https://app-dropoff-analyzer-hackathon.streamlit.app/
@@ -72,8 +75,10 @@ LinkedIn : https://www.linkedin.com/in/mohammed-aman-baig-3268122a3?utm_source=s
 
 
 🏁 License
+
 This project is licensed under the MIT License – feel free to use and contribute.
 
 🙌 Acknowledgements
-Special thanks to Product Space for hosting the
+Special thanks to #Product Space
+for hosting the
 🧠 AI Agent Hackathon, where this project was created.
