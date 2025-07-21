@@ -22,20 +22,10 @@ It helps identify **user drop-off points** in the onboarding funnel and provides
 - 💬 **Sentiment Insights**: Extract common feedback and pain points
 - ✅ **UX Suggestions**: Data-driven recommendations to improve conversion
 - 📥 **Report Download**: Export your analysis as a CSV
-
----
-
-### 📸 Screenshots
-
-> _Add your own screenshots here (optional)_
-
-| Data Upload | Drop-off Chart | Feedback Analysis |
-|-------------|----------------|-------------------|
-| ![Upload](assets/screens/upload.png) | ![Chart](assets/screens/chart.png) | ![Feedback](assets/screens/feedback.png) |
-
----
+- 
 
 ### 🛠️ How to Run Locally
+
 
 
 # 1. Clone the repository
@@ -56,7 +46,7 @@ We’ve included a sample file:
 📄 onboarding_80_users.csv
 It contains user_id, step, completion status, time spent, and feedback — ideal for demo and testing.
 
-🔗 Live App: 
+🔗 Live App: https://app-dropoff-analyzer-hackathon.streamlit.app/
 
 👨‍💻 Built With
 
@@ -70,12 +60,16 @@ It contains user_id, step, completion status, time spent, and feedback — ideal
 
 💠scikit-learn
 
-👥 Authors
+👥 Authors:
+
 Pothana Pardhu
- | GitHub
+
+LinkedIn : www.linkedin.com/in/pardhu-pothana
 
 Mohammed Aman Baig
-LinkedIn | GitHub
+
+LinkedIn : https://www.linkedin.com/in/mohammed-aman-baig-3268122a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 🏁 License
 This project is licensed under the MIT License – feel free to use and contribute.
