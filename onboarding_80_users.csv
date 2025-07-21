@@ -1,0 +1,303 @@
+user_id,step,time_spent,completed,feedback
+u001,signup,9,yes,
+u001,email_verification,25,no,Email went to spam
+u002,signup,16,yes,
+u002,email_verification,14,yes,
+u002,profile_setup,42,no,Too many fields
+u003,signup,35,yes,
+u003,email_verification,10,yes,
+u003,profile_setup,9,yes,
+u003,feature_tour,13,yes,
+u003,first_action,21,yes,
+u003,upgrade_prompt,22,no,Not ready to upgrade
+u004,signup,9,yes,
+u004,email_verification,43,yes,
+u004,profile_setup,20,yes,
+u004,feature_tour,42,yes,
+u004,first_action,34,yes,
+u004,upgrade_prompt,22,no,Too expensive
+u005,signup,25,yes,
+u005,email_verification,8,yes,
+u005,profile_setup,18,yes,
+u005,feature_tour,35,yes,
+u005,first_action,29,yes,
+u005,upgrade_prompt,25,no,Didn't want to pay
+u006,signup,29,yes,
+u006,email_verification,14,yes,
+u006,profile_setup,13,no,Interface was confusing
+u007,signup,30,yes,
+u007,email_verification,30,no,Link expired too fast
+u008,signup,37,yes,
+u008,email_verification,42,no,OTP didn’t arrive
+u009,signup,13,yes,
+u009,email_verification,43,yes,
+u009,profile_setup,26,yes,
+u009,feature_tour,31,yes,
+u009,first_action,44,no,Didn't understand what to do
+u010,signup,10,yes,
+u010,email_verification,22,no,Link expired too fast
+u011,signup,22,yes,
+u011,email_verification,14,no,Too confusing
+u012,signup,37,yes,
+u012,email_verification,31,yes,
+u012,profile_setup,18,yes,
+u012,feature_tour,31,no,Too many tooltips
+u013,signup,25,yes,
+u013,email_verification,12,yes,
+u013,profile_setup,18,no,Uploading photo failed
+u014,signup,37,yes,
+u014,email_verification,32,yes,
+u014,profile_setup,25,no,Uploading photo failed
+u015,signup,11,yes,
+u015,email_verification,22,yes,
+u015,profile_setup,10,yes,
+u015,feature_tour,28,no,Too many popups
+u016,signup,12,yes,
+u016,email_verification,21,yes,
+u016,profile_setup,44,yes,
+u016,feature_tour,28,no,Tour was too long
+u017,signup,33,yes,
+u017,email_verification,37,yes,
+u017,profile_setup,17,yes,
+u017,feature_tour,24,yes,
+u017,first_action,16,no,Didn't understand what to do
+u018,signup,42,yes,
+u018,email_verification,24,yes,
+u018,profile_setup,45,yes,
+u018,feature_tour,35,yes,
+u018,first_action,45,yes,
+u018,upgrade_prompt,33,no,Too expensive
+u019,signup,16,yes,
+u019,email_verification,40,yes,
+u019,profile_setup,39,no,Too many fields
+u020,signup,15,yes,
+u020,email_verification,17,no,Email went to spam
+u021,signup,12,yes,
+u021,email_verification,32,yes,
+u021,profile_setup,32,yes,
+u021,feature_tour,37,yes,
+u021,first_action,41,no,Too many popups
+u022,signup,8,yes,
+u022,email_verification,15,yes,
+u022,profile_setup,42,yes,
+u022,feature_tour,25,yes,
+u022,first_action,29,yes,
+u022,upgrade_prompt,15,no,Too expensive
+u023,signup,18,yes,
+u023,email_verification,37,yes,
+u023,profile_setup,8,yes,
+u023,feature_tour,24,yes,
+u023,first_action,40,no,Didn't understand what to do
+u024,signup,14,yes,
+u024,email_verification,27,yes,
+u024,profile_setup,40,yes,
+u024,feature_tour,20,yes,
+u024,first_action,17,yes,
+u024,upgrade_prompt,31,no,Didn't want to pay
+u025,signup,41,yes,
+u025,email_verification,8,yes,
+u025,profile_setup,28,yes,
+u025,feature_tour,39,yes,
+u025,first_action,9,yes,
+u025,upgrade_prompt,15,no,Too expensive
+u026,signup,23,yes,
+u026,email_verification,11,yes,
+u026,profile_setup,23,yes,
+u026,feature_tour,44,no,Didn't know how to skip
+u027,signup,39,yes,
+u027,email_verification,12,no,Email went to spam
+u028,signup,38,yes,
+u028,email_verification,43,yes,
+u028,profile_setup,18,no,Didn't know what to write
+u029,signup,35,yes,
+u029,email_verification,21,yes,
+u029,profile_setup,42,yes,
+u029,feature_tour,20,yes,
+u029,first_action,27,yes,
+u029,upgrade_prompt,33,no,Not ready to upgrade
+u030,signup,36,yes,
+u030,email_verification,41,yes,
+u030,profile_setup,36,yes,
+u030,feature_tour,15,no,Tour was too long
+u031,signup,12,yes,
+u031,email_verification,29,yes,
+u031,profile_setup,9,no,Uploading photo failed
+u032,signup,22,yes,
+u032,email_verification,8,yes,
+u032,profile_setup,12,yes,
+u032,feature_tour,11,yes,
+u032,first_action,22,yes,
+u032,upgrade_prompt,12,no,Didn't want to pay
+u033,signup,12,yes,
+u033,email_verification,40,yes,
+u033,profile_setup,23,yes,
+u033,feature_tour,25,no,Too many popups
+u034,signup,42,yes,
+u034,email_verification,16,yes,
+u034,profile_setup,44,no,Interface was confusing
+u035,signup,38,yes,
+u035,email_verification,34,yes,
+u035,profile_setup,20,no,Too many fields
+u036,signup,35,yes,
+u036,email_verification,30,no,Too confusing
+u037,signup,37,yes,
+u037,email_verification,11,yes,
+u037,profile_setup,14,yes,
+u037,feature_tour,11,yes,
+u037,first_action,33,no,Interface was confusing
+u038,signup,14,yes,
+u038,email_verification,23,yes,
+u038,profile_setup,20,yes,
+u038,feature_tour,20,no,Too many popups
+u039,signup,35,yes,
+u039,email_verification,19,yes,
+u039,profile_setup,25,no,Interface was confusing
+u040,signup,12,yes,
+u040,email_verification,36,yes,
+u040,profile_setup,43,no,Too many fields
+u041,signup,42,yes,
+u041,email_verification,8,no,OTP didn’t arrive
+u042,signup,18,yes,
+u042,email_verification,34,yes,
+u042,profile_setup,39,no,Interface was confusing
+u043,signup,33,yes,
+u043,email_verification,11,yes,
+u043,profile_setup,18,no,Interface was confusing
+u044,signup,32,yes,
+u044,email_verification,24,no,Too confusing
+u045,signup,35,yes,
+u045,email_verification,43,yes,
+u045,profile_setup,39,yes,
+u045,feature_tour,17,no,Tour was too long
+u046,signup,21,yes,
+u046,email_verification,11,yes,
+u046,profile_setup,45,yes,
+u046,feature_tour,42,no,Didn't know how to skip
+u047,signup,11,yes,
+u047,email_verification,11,yes,
+u047,profile_setup,45,yes,
+u047,feature_tour,38,no,Tour was too long
+u048,signup,40,yes,
+u048,email_verification,13,no,Email went to spam
+u049,signup,12,yes,
+u049,email_verification,23,no,Too confusing
+u050,signup,44,yes,
+u050,email_verification,23,no,OTP didn’t arrive
+u051,signup,13,yes,
+u051,email_verification,34,yes,
+u051,profile_setup,45,yes,
+u051,feature_tour,44,yes,
+u051,first_action,41,yes,
+u051,upgrade_prompt,28,no,Too expensive
+u052,signup,28,yes,
+u052,email_verification,23,yes,
+u052,profile_setup,24,no,Interface was confusing
+u053,signup,27,yes,
+u053,email_verification,37,yes,
+u053,profile_setup,28,no,Too many fields
+u054,signup,37,yes,
+u054,email_verification,44,no,OTP didn’t arrive
+u055,signup,42,yes,
+u055,email_verification,21,no,Link expired too fast
+u056,signup,30,yes,
+u056,email_verification,12,yes,
+u056,profile_setup,23,no,Didn't know what to write
+u057,signup,18,yes,
+u057,email_verification,36,yes,
+u057,profile_setup,42,yes,
+u057,feature_tour,27,no,Didn't know how to skip
+u058,signup,27,yes,
+u058,email_verification,14,yes,
+u058,profile_setup,16,yes,
+u058,feature_tour,24,yes,
+u058,first_action,15,yes,
+u058,upgrade_prompt,14,no,Not ready to upgrade
+u059,signup,17,yes,
+u059,email_verification,25,yes,
+u059,profile_setup,26,yes,
+u059,feature_tour,21,yes,
+u059,first_action,29,yes,
+u059,upgrade_prompt,21,no,Not ready to upgrade
+u060,signup,40,yes,
+u060,email_verification,39,yes,
+u060,profile_setup,24,yes,
+u060,feature_tour,11,no,Didn't know how to skip
+u061,signup,25,yes,
+u061,email_verification,10,yes,
+u061,profile_setup,8,yes,
+u061,feature_tour,29,yes,
+u061,first_action,16,no,Interface was confusing
+u062,signup,18,yes,
+u062,email_verification,36,yes,
+u062,profile_setup,43,yes,
+u062,feature_tour,35,no,Didn't know how to skip
+u063,signup,12,yes,
+u063,email_verification,17,no,OTP didn’t arrive
+u064,signup,45,yes,
+u064,email_verification,43,yes,
+u064,profile_setup,17,yes,
+u064,feature_tour,35,no,Tour was too long
+u065,signup,27,yes,
+u065,email_verification,31,no,OTP didn’t arrive
+u066,signup,21,yes,
+u066,email_verification,23,yes,
+u066,profile_setup,14,yes,
+u066,feature_tour,30,no,Too many popups
+u067,signup,17,yes,
+u067,email_verification,23,yes,
+u067,profile_setup,18,yes,
+u067,feature_tour,19,yes,
+u067,first_action,34,yes,
+u067,upgrade_prompt,9,no,Didn't want to pay
+u068,signup,34,yes,
+u068,email_verification,23,yes,
+u068,profile_setup,25,yes,
+u068,feature_tour,18,no,Didn't know how to skip
+u069,signup,10,yes,
+u069,email_verification,38,yes,
+u069,profile_setup,22,yes,
+u069,feature_tour,20,yes,
+u069,first_action,37,no,Too many popups
+u070,signup,22,yes,
+u070,email_verification,22,yes,
+u070,profile_setup,9,yes,
+u070,feature_tour,20,no,Too many popups
+u071,signup,25,yes,
+u071,email_verification,12,yes,
+u071,profile_setup,25,yes,
+u071,feature_tour,30,no,Too many popups
+u072,signup,29,yes,
+u072,email_verification,9,yes,
+u072,profile_setup,15,yes,
+u072,feature_tour,24,yes,
+u072,first_action,19,yes,
+u072,upgrade_prompt,45,no,Too expensive
+u073,signup,14,yes,
+u073,email_verification,35,no,Link expired too fast
+u074,signup,35,yes,
+u074,email_verification,40,yes,
+u074,profile_setup,15,yes,
+u074,feature_tour,32,no,Tour was too long
+u075,signup,10,yes,
+u075,email_verification,35,yes,
+u075,profile_setup,8,yes,
+u075,feature_tour,41,no,Tour was too long
+u076,signup,35,yes,
+u076,email_verification,12,yes,
+u076,profile_setup,29,yes,
+u076,feature_tour,28,no,Didn't know how to skip
+u077,signup,40,yes,
+u077,email_verification,27,yes,
+u077,profile_setup,34,yes,
+u077,feature_tour,28,no,Too many popups
+u078,signup,43,yes,
+u078,email_verification,16,yes,
+u078,profile_setup,20,yes,
+u078,feature_tour,34,no,Too many popups
+u079,signup,44,yes,
+u079,email_verification,27,yes,
+u079,profile_setup,33,no,Too many fields
+u080,signup,26,yes,
+u080,email_verification,21,yes,
+u080,profile_setup,35,yes,
+u080,feature_tour,45,no,Too many tooltips
